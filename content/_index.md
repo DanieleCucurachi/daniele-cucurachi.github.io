@@ -206,18 +206,18 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Hello! You’ve reached this page because you’re interested in contacting me. Thank you for your kind interest! In nearly all instances, it is optimal to contact me via email: daniele dot cucurachi at alumni dot epfl dot com. Please avoid contacting me via LinkedIn, X , or other social networks. I do not find such networks easy for direct communication, and in many cases I check them very rarely.
+        Hello! You’ve reached this page because you’re interested in contacting me. Thank you for your kind interest! In nearly all instances, it is optimal to contact me via email: daniele dot cucurachi at alumni dot epfl dot com. Please avoid contacting me via LinkedIn, X (Twitter), or other social networks. I do not find such networks easy for direct communication, and in many cases I check them very rarely.
       # Contact (add or remove contact options as necessary)
       email: daniele.cucurachi@alumni.epfl.ch
       # phone: 888 888 88 88
