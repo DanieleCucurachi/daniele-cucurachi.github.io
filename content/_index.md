@@ -217,39 +217,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Hello! You’ve reached this page because you’re interested in contacting me. Thank you for your interest! This page provides useful information on how to most effectively get in touch. In nearly all instances, it is optimal to contact me via email: daniele dot cucurachi at alumni dot epfl dot com. Please avoid contacting me via LinkedIn, X (Twitter), or other social networks. I do not find such networks easy for direct communication, and in many cases I check them very rarely. When I do see a message, I tend to reply by asking for an email anyway.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: daniele.cucurachi@alumni.epfl.ch
-      # phone: 888 888 88 88
-      # appointment_url: 'https://calendly.com'
-      # address:
-      #   street: 450 Serra Mall
-      #   city: Stanford
-      #   region: CA
-      #   postcode: '94305'
-      #   country: United States
-      #   country_code: US
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
-      # # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # coordinates:
-      #   latitude: '37.4275'
-      #   longitude: '-122.1697'  
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: https://twitter.com/DanCucurachi
+          link: 'https://twitter.com/Twitter'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'live:.cid.d24297dc423dc33b'
-        # - icon: video
-        #   icon_pack: fas
-        #   name: Zoom Me
-        #   link: 'https://zoom.com'
+          link: 'skype:echo123?call'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
