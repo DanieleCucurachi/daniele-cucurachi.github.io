@@ -22,26 +22,26 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum algorithms, Markov Chains Monte Carlo algorithms and geometric deep learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algorithms & Complexity
+  - Deep Learning
+  - Quantum Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Visiting Student
+      institution: University of Cambridge
+      year: 2023
+    - course: MSc in Physics
+      institution: EPFL - École Polytechnique Fédérale de Lausanne
+      year: 2023
+    - course: BSc in Physics Engineering
+      institution: Politecnico di Torino
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
