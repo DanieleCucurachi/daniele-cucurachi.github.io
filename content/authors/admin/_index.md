@@ -3,7 +3,7 @@
 title: Daniele Cucurachi
 
 # Full name (for SEO)
-first_name:  Daniele
+first_name: Daniele
 last_name: Cucurachi
 
 # Status emoji
@@ -22,13 +22,13 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum algorithms, Markov Chains Monte Carlo algorithms and geometric deep learning.
+bio: My research interests include quantum algorithms, Markov Chains Monte Carlo algorithms and deep learning.
 
 # Interests to show in About widget
 interests:
   - Algorithms & Complexity
   - Deep Learning
-  - Quantum Computing
+  - Quantum Algorithms
 
 # Education to show in About widget
 education:
@@ -39,49 +39,49 @@ education:
     - course: MSc in Physics
       institution: EPFL - École Polytechnique Fédérale de Lausanne
       year: 2023
-    - course: BSc in Physics Engineering
+    - course: BS in Physics Engineering
       institution: Politecnico di Torino
       year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,5 +117,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computational physicist, recently graduated from the MSc in Applied Physics programme at EPFL in Switzerland.
+
+My background and research interests span a wide range of exciting problems ranging from  machine learning to quantum computing. My current project, in collaboration with with the Quantum Information Group at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo. Feel free to reach out!
+
 {style="text-align: justify;"}
