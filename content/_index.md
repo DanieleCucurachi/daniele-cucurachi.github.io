@@ -88,7 +88,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards and &shy;Accomplishments'
+      title: 'Awards and &;Accomplishments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -100,7 +100,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-11-25'
           description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
           icon: coursera
           organization: Scientifica VC
