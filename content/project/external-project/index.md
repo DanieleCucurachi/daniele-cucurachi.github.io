@@ -1,9 +1,9 @@
 ---
-title: Simulation & Design of Superconducting Quantum Processing Units
+title: Simulation & Design of Superconducting QPUs
 summary: |+ 
-     During my internship at [IQM Quantum Computers](https://www.meetiqm.com/), as part of the DAS Team (Design and Simulation Team), I worked on the development of software tools for automating the simulation and design of superconducting quantum circuits.
+     During my internship at [IQM Quantum Computers](https://www.meetiqm.com/), as part of the DAS Team (Design and Simulation Team), I worked on the development of software tools for automating the simulation and design of superconducting Quantum Processing Units (QPUs)
 
-     **Supervisors:** Alessandro Landra, Caspar Ockeloen-Korppi.
+     **Supervisors:** Dr. Alessandro Landra, Dr. Caspar Ockeloen-Korppi
 tags:
   - Quantum Computing
 date: '2022-08-01T00:00:00Z'
@@ -38,6 +38,6 @@ slides:
 url_slides: 
 ---
 
-As a member of the DAS Team (Design and Simulation Team), my work was focused on the development of software tools for automating the design and simulation of superconducting circuits. The design and simulation of superconducting quantum circuits constitutes the core of IQM Quantum Computers work, a company whose focus is mainly on the hardware side of quantum computing. It is a difficult and time consuming process involving several repetitive tasks and increasing levels of complexity. This is why the future of superconducting quantum hardware design is automation.
-In the past, the majority of university research groups, laboratories and quantum companies have been designing their devices "by hand". Such approach becomes more and more inefficient and error prone as the number of qubits increases together with the complexity of the chip. It is not a viable options since the ultimate goal is scaling up. Software tools for quantum circuits design and simulation, like the ones developed by IQM, will be essential to reach the quantum advantage by providing scalable solutions for QPUs (Quantum Processing Units) development for the quantum computers of tomorrow.
+As a member of the DAS Team (Design and Simulation Team), my work was focused on the development of software tools for automating the design and simulation of superconducting circuits. The design and simulation of superconducting quantum circuits constitutes the core of IQM Quantum Computers work, a company whose focus is mainly on the hardware side of quantum computing. It is a difficult and time consuming process involving several repetitive tasks and increasing levels of complexity. This is why the future of superconducting quantum hardware design is automation.
+In the past, the majority of university research groups, laboratories and quantum companies have been designing their devices "by hand". Such approach becomes more and more inefficient and error prone as the number of qubits increases together with the complexity of the chip. It is not a viable options since the ultimate goal is scaling up. Software tools for quantum circuits design and simulation, like the ones developed by IQM, will be essential to reach the quantum advantage by providing scalable solutions for QPUs (Quantum Processing Units) development for the quantum computers of tomorrow.
 {style="text-align: justify;"}
