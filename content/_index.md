@@ -154,6 +154,30 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards and Accomplishments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-11-25'
+          description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
+          icon: coursera
+          organization: Scientifica VC
+          organization_url: https://scientifica.vc/
+          title: Scientifica Venture Capital Thesis Award
+          url: ''
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: Gallery
@@ -187,30 +211,6 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards and Accomplishments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-11-25'
-          description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
-          icon: coursera
-          organization: Scientifica VC
-          organization_url: https://scientifica.vc/
-          title: Scientifica Venture Capital Thesis Award
-          url: ''
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
