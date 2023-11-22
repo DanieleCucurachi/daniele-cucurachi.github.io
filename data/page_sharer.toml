@@ -80,11 +80,3 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
-
-  [[buttons]]
-  id = "scientifica"
-  url = "https://scientifica.vc/assets/images/logo/logoScientifica.webpUrl={url}&title={title}"
-  title = "scientifica"
-  icon_pack = "fab"
-  icon = "scientifica"
-  enable = false

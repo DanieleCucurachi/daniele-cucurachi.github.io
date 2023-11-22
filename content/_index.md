@@ -171,7 +171,7 @@ sections:
           date_end: ''
           date_start: '2023-11-25'
           description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
-          icon: coursera
+          icon: '' # qui andrebbe aggiunta un'icona in qualche modo
           organization: Scientifica VC
           organization_url: https://scientifica.vc/#/thesis
           title: Scientifica Venture Capital Thesis Award
