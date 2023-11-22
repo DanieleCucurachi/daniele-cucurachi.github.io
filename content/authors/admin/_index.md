@@ -26,7 +26,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum algorithms, Markov Chains Monte Carlo algorithms and deep learning.
+bio: My research interests include quantum computing, algorithms and deep learning.
 
 # Interests to show in About widget
 interests:

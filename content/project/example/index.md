@@ -27,7 +27,7 @@ url_code: ''
 url_video: ''
 url_link: ''
 
-pdf: ./GeNW.pdf
+pdf: 
 url_pdf: ./GeNW.pdf
 
 
