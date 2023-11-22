@@ -1,4 +1,8 @@
 ---
+#
+avatar_filename: avatar.jpg
+logo: logo.png
+
 # Display name
 title: Daniele Cucurachi
 
@@ -121,6 +125,6 @@ highlight_name: true
 
 I am a computational physicist, recently graduated from the MSc in Applied Physics programme at EPFL in Switzerland.
 
-My background and research interests span a wide range of exciting problems ranging from  machine learning to quantum computing. My current project, in collaboration with with the Quantum Information Group at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo. Feel free to reach out!
+My background and research interests span a wide range of exciting problems ranging from  machine learning to quantum computing. My current project, in collaboration with with the [Quantum Information Group](https://www.qi.phy.cam.ac.uk/) at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo. Feel free to reach out!
 
 {style="text-align: justify;"}
