@@ -32,7 +32,7 @@ bio: My research interests include quantum algorithms, Markov Chains Monte Carlo
 interests:
   - Algorithms & Complexity
   - Deep Learning
-  - Quantum Algorithms
+  - Quantum Computing
 
 # Education to show in About widget
 education:
