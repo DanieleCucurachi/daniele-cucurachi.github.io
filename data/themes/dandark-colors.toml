@@ -1,0 +1,18 @@
+# Theme metadata
+name = "marys-purple-dark"
+  
+light = false
+
+#Primary
+primary = "#B3C1E5" # highlight text - links, buttons, etc 8B92D1
+
+# Menu
+menu_primary = "#141514" #background color
+menu_text = "#fff" # text in upper lefthand corner - menu navigation text
+menu_text_active = "#B3C1E5" # text in upper lefthand corner 
+menu_title = "#141514" # i have no idea
+
+# Home sections
+background = "#343434"
+home_section_odd = "#141514"
+home_section_even = "#141514"
