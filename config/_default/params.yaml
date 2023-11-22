@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal # dandark-colors.toml
-  theme_night: minimal # dandark-colors.toml
+  theme_day: dandark-colors.toml
+  theme_night: dandark-colors.toml
   font: mary-serif
   font_size: S
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Daniele Cucurachi's personal website.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Daniele Cucurachi'
     license:
       enable: true
       allow_derivatives: false
