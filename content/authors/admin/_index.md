@@ -40,7 +40,7 @@ education:
     - course: Visiting Student
       institution: University of Cambridge
       year: 2023
-    - course: MSc in Physics
+    - course: MSc in Applied Physics
       institution: EPFL - École Polytechnique Fédérale de Lausanne
       year: 2023
     - course: BS in Physics Engineering
