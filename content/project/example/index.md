@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Localized crystallization of Germanium nanowires
+summary: This work aims to investigate which are the best rapid thermal annealing (RTA) parameters for crystallizing Germanium nanowires grown on a patterned Silicon substrate, with the prospect of employing the nanowires as quantum dots for quantum computing applications (hole spin qubits).
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Quantum Computing
+date: '2021-01-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Effects of different annealing temperature on the Ge nanowires.
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,6 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+This work aims to investigate which are the best rapid thermal annealing (RTA) parameters for crystallizing Germanium nanowires grown on a patterned Silicon substrate, with the prospect of employing the nanowires as quantum dots for quantum computing applications (hole spin qubits). To this purpose, the features we are looking for are good quality and defects free crystal structure and epitaxy with Silicon. Indeed, the presence of an epitaxial relation between Germanium and Silicon will lead to a hole mobility enhancement. There is a lattice mismatch of 4,2% between Si and Ge (since Ge has a greater lattice parameter with respect to Si) which induces a compressive strain in the Ge crystal structure when it is epitaxially grown on Si at room temperature. On the other hand, Ge features a larger thermal expansion coefficient so, after the annealing process (temperatures higher than 500°C), a reverse situation occurs: Ge undergoes tensile strain because it shrinks more when cooled down after annealing. The induced strain lifts valence band degeneracy (heavy hole and light hole bands are degenerate at gamma point in Germanium) reducing interband scattering with a consequent hole mobility enhancement. Ge nanowires could also relax this strain by forming misfit dislocations at the interfaces between the two materials. In this case we would lose the mobility enhancement effect induced by strain, thus we want to avoid the formation of defects at the interface. We also want to avoid the presence of Si intermixing, which could be induced by high temperature annealing, since it would be detrimental for quantum dots. 
+Ordered array of nanowires have been fabricated on an e-beam patterned Si substrate by evaporation using the lift-off technique. They were successively crystallized, using the solid phase epitaxy approach (SPE), by rapid thermal annealing. This unconventional approach has been chosen because of the scalability: the possibility of mass production is fundamental since a large number of semiconductor qubits are required for quantum computing applications. In addition, evaporation allows to grow nanowires networks. This is extremely useful for quantum comput- ing since it provides a simple way to link different quantum dots obtaining qubits
+superposition. The nanowires have been then analyzed through Raman spectroscopy, scanning and transmission electron microscopy.
