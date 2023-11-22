@@ -1,7 +1,7 @@
 ---
 title: Simulation & Design of Superconducting QPUs
 summary: |+ 
-     During my internship at [IQM Quantum Computers](https://www.meetiqm.com/), as part of the DAS Team (Design and Simulation Team), I worked on the development of software tools for automating the simulation and design of superconducting Quantum Processing Units (QPUs)
+     During my internship at [IQM Quantum Computers](https://www.meetiqm.com/), as part of the DAS Team (Design and Simulation Team), I worked on the development of software tools for automating the simulation and design of superconducting Quantum Processing Units (QPUs).
 
      **Supervisors:** Dr. Alessandro Landra, Dr. Caspar Ockeloen-Korppi
 tags:
