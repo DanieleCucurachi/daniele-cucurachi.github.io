@@ -1,7 +1,6 @@
 ---
 title: Localized crystallization of Germanium nanowires
-summary: This work aims to investigate which are the best rapid thermal annealing (RTA)
-parameters for crystallizing Germanium nanowires grown on a patterned Silicon
+summary: This work aims to investigate which are the best rapid thermal annealing (RTA) parameters for crystallizing Germanium nanowires grown on a patterned Silicon
 substrate, with the prospect of employing the nanowires as quantum dots for quan-
 tum computing applications (hole spin qubits).
 tags:
@@ -30,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: example
 ---
 
 This work aims to investigate which are the best rapid thermal annealing (RTA)
