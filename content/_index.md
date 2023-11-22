@@ -157,7 +157,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards and Accomplishments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -167,7 +167,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: https://scientifica.vc/#/thesis
           date_end: ''
           date_start: '2023-11-25'
           description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
@@ -175,7 +175,7 @@ sections:
           organization: Scientifica VC
           organization_url: https://scientifica.vc/
           title: Scientifica Venture Capital Thesis Award
-          url: ''
+          url: https://scientifica.vc/#/thesis
     design:
       columns: '2'
   - block: markdown
