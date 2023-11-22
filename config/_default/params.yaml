@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: dandark-colors.toml
-  theme_night: dandark-colors.toml
+  theme_day: dandark-colors
+  theme_night: dandark-colors
   font: mary-serif
   font_size: S
 
