@@ -171,7 +171,7 @@ sections:
           date_end: ''
           date_start: '2023-11-25'
           description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
-          icon: coursera
+          icon: scientifica
           organization: Scientifica VC
           organization_url: https://scientifica.vc/
           title: Scientifica Venture Capital Thesis Award
