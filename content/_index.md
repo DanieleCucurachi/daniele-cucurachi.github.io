@@ -115,7 +115,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Events & Talks
       filters:
         folders:
           - event
