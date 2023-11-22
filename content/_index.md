@@ -167,13 +167,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://scientifica.vc/#/thesis
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-11-25'
           description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects ($3000 prize)'
-          icon: scientifica
+          icon: coursera
           organization: Scientifica VC
-          organization_url: https://scientifica.vc/
+          organization_url: https://scientifica.vc/#/thesis
           title: Scientifica Venture Capital Thesis Award
           url: https://scientifica.vc/#/thesis
     design:
