@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: dandark-colors
-  theme_night: dandark-colors
+  theme_day: minimal # dandark-colors
+  theme_night: minimal # dandark-colors
   font: mary-serif
   font_size: S
 
