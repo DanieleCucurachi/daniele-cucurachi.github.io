@@ -28,7 +28,7 @@ url_video: ''
 url_link: ''
 
 pdf: 
-url_pdf: ./static/uploads/GeNW.pdf
+url_pdf: https://github.com/DanieleCucurachi/personal-website/blob/main/static/uploads/GeNW.pdf
 
 
 # Slides (optional).
