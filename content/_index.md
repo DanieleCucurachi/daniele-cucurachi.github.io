@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Daniele
+title: ''
 date: 2023-07-24
 type: landing
 
