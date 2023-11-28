@@ -26,7 +26,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum computing, algorithms and deep learning.
+bio: I am a computational physicist interested in a wide range of exciting problems ranging from machine learning to quantum computing. On the side, I collaborate with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech start-ups.
 
 # Interests to show in About widget
 interests:
@@ -121,10 +121,14 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# My current project, in collaboration with with the [Quantum Information Group](https://www.qi.phy.cam.ac.uk/) at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo.
 ---
 
-I am a computational physicist, recently graduated from the MSc in Applied Physics programme at EPFL in Switzerland.
+I am a computational physicist, recently graduated from the MSc in Applied Physics programme at EPFL in Switzerland, determined to pursue a research career. My background and research interests span a wide range of exciting problems ranging from machine learning to quantum computing.
 
-My background and research interests span a wide range of exciting problems ranging from  machine learning to quantum computing. My current project, in collaboration with with the [Quantum Information Group](https://www.qi.phy.cam.ac.uk/) at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo. Feel free to reach out!
+On the side, I collaborate as an adVenture Partner with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech start-ups.
+
+Feel free to reach out!
 
 {style="text-align: justify;"}
