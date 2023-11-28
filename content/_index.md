@@ -172,12 +172,12 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-11-25'
-          description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects. The selected candidates receive a grant of €3,000 and gain access to a mentorship program on entrepreneurship and the world of start-ups (https://scientifica.vc/#/venture-partner).'
+          description: 'Every year Scientifica VC awards grants to the best thesis in STEM subjects. The selected candidates receive a grant of €3,000 and gain access to a [mentorship programme](https://scientifica.vc/#/en/venture-partner) on entrepreneurship and the world of start-ups.'
           icon: '' # qui andrebbe aggiunta un'icona in qualche modo
           organization: Scientifica VC
-          organization_url: https://scientifica.vc/#/home
+          organization_url: https://scientifica.vc/#/en/home
           title: Scientifica Venture Capital Thesis Award
-          url: https://scientifica.vc/#/thesis
+          url: https://scientifica.vc/#/en/thesis
     design:
       columns: '2'
   - block: markdown
