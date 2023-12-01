@@ -13,11 +13,13 @@ address:
   country: Switzerland
 
 summary: The EPFL Quantum Computing Association committee is proposing this year a quantum software hackathon, dedicated to the promotion and education of quantum computation and its ties to chemistry simulations.
-abstract: 'The EPFL Quantum Computing Association committee is proposing this year a quantum software hackathon, dedicated to the promotion and education of quantum computation and its ties to chemistry simulations. Organized over the 19th and 20th of November on EPFL campus in Lausanne, the event will welcome students from multiple institutions in Switzerland and will consist of a set of introductory talks on quantum computing and a final programming project defined in two parts:
+abstract: |+
+      The EPFL Quantum Computing Association committee is proposing this year a quantum software hackathon, dedicated to the promotion and education of quantum computation and its ties to chemistry simulations. Organized over the 19th and 20th of November on EPFL campus in Lausanne, the event will welcome students from multiple institutions in Switzerland and will consist of a set of introductory talks on quantum computing and a final programming project defined in two parts:
+      {style="text-align: justify;"}
 
-1. A tutorial on quantum simulations, common to all participants and accessible to beginners in QC.
+      1. A tutorial on quantum simulations, common to all participants and accessible to beginners in QC.
 
-2. Original propositions to enhance results derived in the first part, subject to evaluation for a competition among the participants.'{style="text-align: justify;"}
+      2. Original propositions to enhance results derived in the first part, subject to evaluation for a competition among the participants.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
