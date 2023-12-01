@@ -220,7 +220,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Hello! You’ve reached this page because you’re interested in contacting me. Thank you for your kind interest! In nearly all instances, it is optimal to contact me via email: daniele dot cucurachi at alumni dot epfl dot com. Please avoid contacting me via LinkedIn, X (Twitter), or other social networks. I do not find such networks easy for direct communication, and in many cases I check them very rarely.
+        Hello! You’ve reached this page because you’re interested in contacting me. Thank you for your kind interest! In nearly all instances, it is optimal to contact me via email: daniele dot cucurachi at alumni dot epfl dot com, or you can use directly [daniele.cucurachi@alumni.epfl.ch](mailto:daniele.cucurachi@alumni.epfl.ch). Please avoid contacting me via LinkedIn, X (Twitter), or other social networks. I do not find such networks easy for direct communication, and in many cases I check them very rarely.
       # Contact (add or remove contact options as necessary)
       email: daniele.cucurachi@alumni.epfl.ch
       # phone: 888 888 88 88
@@ -256,13 +256,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
