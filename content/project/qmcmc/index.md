@@ -2,14 +2,15 @@
 title: Quantum-enhanced Markov chain Monte Carlo optimisation
 summary: |+ 
     Developed a hybrid algorithm for optimising parametrized proposal strategies in quantum‑enhanced Monte Carlo Markov chains. A Python simulator of the algorithm is available on my [GitHub](https://github.com/DanieleCucurachi/QMCMC.git). Currently in the process of finalizing and preparing this project for submission to a peer‑reviewed journal.
+    {style="text-align: justify;"}
 
-    **Supervisor:** [Prof. Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc), [Prof. Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), [Dr. Hugo V. Lepage](https://www.qi.phy.cam.ac.uk/people/).
+    **Supervisors:** [Prof. Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc), [Prof. Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), [Dr. Hugo V. Lepage](https://www.qi.phy.cam.ac.uk/people/).
 
     **Colleagues:** [Chris Long](https://www.qi.phy.cam.ac.uk/people/)
 tags:
   - Algorithms
   - Quantum Computing
-date: '2021-01-18T00:00:00Z'
+date: '2023-06-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
