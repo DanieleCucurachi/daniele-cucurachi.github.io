@@ -14,7 +14,7 @@ date: '2021-01-18T00:00:00Z'
 external_link: ''
 
 image:
-  caption: EDX analysis: Chemical characterization of the nanowires-substrate interface.
+  caption: EDX chemical characterization of the nanowires-substrate interface.
   focal_point: Smart
 
 links: []
