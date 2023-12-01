@@ -9,12 +9,12 @@ main:
     weight: 10
   - name: Talks
     url: '#talks'
-    weight: 30
-  - name: Awards
-    url: '#awards'
     weight: 20
   - name: Projects
     url: '#projects'
+    weight: 30
+  - name: Awards
+    url: '#awards'
     weight: 40
   - name: Gallery
     url: '#gallery'
