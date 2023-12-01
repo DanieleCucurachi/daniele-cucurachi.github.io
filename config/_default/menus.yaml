@@ -10,15 +10,15 @@ main:
   - name: Talks
     url: '#talks'
     weight: 30
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
+  - name: Awards
+    url: '#awards'
+    weight: 20
   - name: Projects
     url: '#projects'
     weight: 40
-  # - name: Gallery
-  #   url: '#gallery'
-  #   weight: 50
+  - name: Gallery
+    url: '#gallery'
+    weight: 50
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
