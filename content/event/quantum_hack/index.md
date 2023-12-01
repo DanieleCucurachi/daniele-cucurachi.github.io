@@ -21,6 +21,10 @@ abstract: |+
 
       2. Original propositions to enhance results derived in the first part, subject to evaluation for a competition among the participants.
 
+      **Speakers:** Dr. Julien Gacon (IBM), Prof. Vincenzo Savona (EPFL), Prof. Giuseppe Carleo (EPFL)
+
+      Link to the official event webpage: [EPFL Quantum Hackathon](https://memento.epfl.ch/event/epfl-quantum-hackathon-2/)
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-11-19T14:00:00Z'
