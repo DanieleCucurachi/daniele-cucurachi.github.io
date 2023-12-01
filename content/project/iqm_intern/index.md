@@ -26,7 +26,7 @@ url_video: ''
 url_link: ''
 
 pdf: 
-url_pdf: 
+url_pdf: uploads/IQM_reference_letters.pdf
 
 
 # Slides (optional).
