@@ -14,7 +14,7 @@ date: '2021-01-18T00:00:00Z'
 external_link: ''
 
 image:
-  caption: TEM image of the Si-Ge interface with FFT patterns from different locations.
+  caption: EDX analysis: EDX chemical characterization of the nanowires-substrate interface.
   focal_point: Smart
 
 links: []
