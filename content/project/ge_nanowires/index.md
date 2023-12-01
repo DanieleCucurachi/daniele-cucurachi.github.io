@@ -5,7 +5,7 @@ summary: |+
 
     **Supervisor:** [Prof. Anna Fontcuberta i Morral](https://people.epfl.ch/anna.fontcuberta-morral).
 
-    **Colleagues:** Santhanu Panikar Ramanandan
+    **Colleagues:** Dr. Santhanu Panikar Ramanandan
 tags:
   - Quantum Computing
 date: '2021-01-18T00:00:00Z'
@@ -14,7 +14,7 @@ date: '2021-01-18T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Effects of different annealing temperature on the Ge nanowires.
+  caption: TEM image of the Si-Ge interface with FFT patterns from different locations.
   focal_point: Smart
 
 links: []
@@ -37,7 +37,7 @@ url_pdf: uploads/GeNW.pdf
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides:
-url_slides: ./GeNW_slides.pdf
+url_slides: uploads/GeNW_slides.pdf
 ---
 
 This work aims to investigate which are the best rapid thermal annealing (RTA) parameters for crystallizing Germanium nanowires grown on a patterned Silicon substrate, with the prospect of employing the nanowires as quantum dots for quantum computing applications (hole spin qubits). To this purpose, the features we are looking for are good quality and defects free crystal structure and epitaxy with Silicon. Indeed, the presence of an epitaxial relation between Germanium and Silicon will lead to a hole mobility enhancement. There is a lattice mismatch of 4,2% between Si and Ge (since Ge has a greater lattice parameter with respect to Si) which induces a compressive strain in the Ge crystal structure when it is epitaxially grown on Si at room temperature. On the other hand, Ge features a larger thermal expansion coefficient so, after the annealing process (temperatures higher than 500°C), a reverse situation occurs: Ge undergoes tensile strain because it shrinks more when cooled down after annealing. The induced strain lifts valence band degeneracy (heavy hole and light hole bands are degenerate at gamma point in Germanium) reducing interband scattering with a consequent hole mobility enhancement. Ge nanowires could also relax this strain by forming misfit dislocations at the interfaces between the two materials. In this case we would lose the mobility enhancement effect induced by strain, thus we want to avoid the formation of defects at the interface. We also want to avoid the presence of Si intermixing, which could be induced by high temperature annealing, since it would be detrimental for quantum dots. 
