@@ -2,6 +2,7 @@
 title: Localized crystallization of Germanium nanowires
 summary: |+ 
     This work aims to investigate which are the best rapid thermal annealing (RTA) parameters for crystallizing Germanium nanowires grown on a patterned Silicon substrate, with the prospect of employing the nanowires as quantum dots for quantum computing applications (hole spin qubits).
+    {style="text-align: justify;"}
 
     **Supervisor:** [Prof. Anna Fontcuberta i Morral](https://people.epfl.ch/anna.fontcuberta-morral).
 

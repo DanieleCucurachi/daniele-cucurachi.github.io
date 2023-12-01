@@ -2,6 +2,7 @@
 title: Simulation & design of superconducting QPUs
 summary: |+ 
      During my internship at [IQM Quantum Computers](https://www.meetiqm.com/), as part of the DAS Team (Design and Simulation Team), I worked on the development of software tools for automating the simulation and design of superconducting Quantum Processing Units (QPUs). A small part of my contributions can be found [here](https://github.com/iqm-finland/KQCircuits/commits?author=danielecucurachiiqm) (public projects only).
+     {style="text-align: justify;"}
 
      **Supervisors:** Dr. Alessandro Landra, Dr. Caspar Ockeloen-Korppi
 tags:
