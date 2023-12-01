@@ -1,11 +1,11 @@
 ---
-title: Apodization of Coupled Cavity array for Waveguide QED
+title: Apodization of coupled cavity array for waveguide QED
 summary: |+ 
      In the present work we aim to optimize the design of a coupled resonator waveguide QED (Quantum Electrodynamics) to obtain flat transmission on a defined frequency range through apodization and study slow light applications.
 
      **Supervisor:** [Prof. Pasquale Scarlino](https://people.epfl.ch/pasquale.scarlino)
 
-     **Colleagues:** Vincent Jouanny, Gabriele Libardi
+     **Colleagues:** Dr. Vincent Jouanny, Gabriele Libardi
 tags:
   - Quantum Computing
 date: '2022-01-01T00:00:00Z'
@@ -28,7 +28,7 @@ url_video: ''
 url_link: ''
 
 pdf: 
-url_pdf: 
+url_pdf: uploads/HQC_lab_project.pdf
 
 
 # Slides (optional).
