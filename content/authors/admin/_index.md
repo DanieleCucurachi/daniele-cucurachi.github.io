@@ -126,9 +126,10 @@ highlight_name: true
 ---
 
 I am a computational physicist, recently graduated from the MSc in Applied Physics programme at EPFL in Switzerland, determined to pursue a research career. My background and research interests span a wide range of exciting problems ranging from machine learning to quantum computing.
+{style="text-align: justify;"}
 
-On the side, I collaborate as an adVenture Partner with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech start-ups.
+On the side, I collaborate as an adVenture Partner with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech start-ups. I am responsible for identifying innovative technological projects within universities and research departments, fostering potential investments by Scientifica.
+{style="text-align: justify;"}
 
 Feel free to reach out!
 
-{style="text-align: justify;"}
