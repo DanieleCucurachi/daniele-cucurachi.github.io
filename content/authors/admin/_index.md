@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Visiting Student
+    - course: Visiting Student (Master's Thesis)
       institution: University of Cambridge
       year: 2023
     - course: MSc in Applied Physics
