@@ -30,7 +30,7 @@ url_video: ''
 url_link: ''
 
 pdf: 
-url_pdf:
+url_pdf: uploads/Master_Thesis.pdf
 
 
 # Slides (optional).
