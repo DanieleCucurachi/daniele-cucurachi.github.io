@@ -37,14 +37,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Visiting Student (Master's Thesis)
-      institution: University of Cambridge
+    - course: Visiting Student
+      institution: University of Cambridge (United Kingdom)
       year: 2023
     - course: MSc in Applied Physics
-      institution: EPFL - École Polytechnique Fédérale de Lausanne
+      institution: EPFL - École Polytechnique Fédérale de Lausanne (Swizterland)
       year: 2023
     - course: BS in Physics Engineering
-      institution: Politecnico di Torino
+      institution: Politecnico di Torino (Italy)
       year: 2020
 
 # Skills
