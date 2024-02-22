@@ -1,7 +1,7 @@
 ---
 title: Quantum-enhanced Markov chain Monte Carlo optimisation
 summary: |+ 
-    The combination of classical Monte Carlo Markov chains (MCMC) methods with quantum computers showed potential for achieving quantum advantage in sampling from the Boltzmann probability distribution. Quantum-enhanced proposal distributions, defined by parameterized unitaries, can outperform classical strategies in proposing effective moves in MCMC. However, it is crucial to carefully tune the values of the parameters defining these distributions, as they determine the resulting advantage over the classical counterpart. In the present work, we propose a general optimisation algorithm that exploits estimates of the autocorrelation function of a certain observable, calculated over a set of samples, to optimise the parameters defining the proposal distributions. A Python simulator of the first version of the algorithm is available on my [GitHub](https://github.com/DanieleCucurachi/QMCMC.git). Currently, I am in the process of finalizing and preparing this project for submission to a peer‑reviewed journal.
+    Quantum-enhanced proposal distributions, defined by parameterized unitaries, showed potential for outperforming classical strategies in proposing effective moves in Monte Carlo Markov chains (MCMC). However, it is crucial to carefully tune the values of the parameters defining these distributions, as they determine the resulting advantage over the classical counterpart. In the present work, we propose a general optimisation algorithm that exploits estimates of the autocorrelation function of a certain observable to optimise the parameters defining the proposal distributions. A Python simulator of the first version of the algorithm is available on my [GitHub](https://github.com/DanieleCucurachi/QMCMC.git).
     {style="text-align: justify;"}
 
     **Supervisors:** [Prof. Crispin Barnes](https://www.phy.cam.ac.uk/directory/barnesc), [Prof. Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), [Dr. Hugo V. Lepage](https://www.qi.phy.cam.ac.uk/people/).
@@ -48,3 +48,5 @@ The combination of classical Markov chains Monte Carlo (MCMC) methods with quant
 A Python simulator of the first version of the algorithm is available on my [GitHub](https://github.com/DanieleCucurachi/QMCMC.git).
 
 Read the full thesis [here](https://danielecucurachi.github.io/personal-website/project/qmcmc/).
+
+**Currently, I am in the process of finalizing and preparing this project for submission to a peer‑reviewed journal.**
