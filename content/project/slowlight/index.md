@@ -29,7 +29,7 @@ url_video: ''
 url_link: ''
 
 pdf: 
-url_pdf: uploads/waveguide_QED.pdf
+url_pdf: uploads/HQC_lab_project.pdf
 
 
 # Slides (optional).
