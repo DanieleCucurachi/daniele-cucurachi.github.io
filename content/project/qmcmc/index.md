@@ -49,5 +49,5 @@ The combination of classical Markov chains Monte Carlo (MCMC) methods with quant
 
 A Python simulator of the first version of the algorithm is available on my [GitHub](https://github.com/DanieleCucurachi/QMCMC.git).
 
-Read the full thesis [here](https://danielecucurachi.github.io/personal-website/project/qmcmc/).
+Read the full thesis [here](https://danielecucurachi.github.io/personal-website/uploads/Master_Thesis.pdf).
 
