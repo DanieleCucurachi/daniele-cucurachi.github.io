@@ -41,7 +41,7 @@ education:
       institution: University of Cambridge (United Kingdom)
       year: 2023
     - course: MSc in Applied Physics
-      institution: EPFL - École Polytechnique Fédérale de Lausanne (Swizterland)
+      institution: EPFL - École Polytechnique Fédérale de Lausanne (Switzerland)
       year: 2023
     - course: BS in Physics Engineering
       institution: Politecnico di Torino (Italy)
