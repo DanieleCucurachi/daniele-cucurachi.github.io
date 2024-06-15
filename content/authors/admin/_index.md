@@ -130,7 +130,7 @@ I am a computational physicist with experience in scientific software developmen
 
 On the side:
 
-- I collaborate as an AdVenture Partner with [**Scientifica VC**](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech startups. I am responsible for identifying innovative technological projects within universities and research departments, fostering potential investments by Scientifica. Feel free to reach out at [daniele.cucurachi@scientificavp.it](mailto:daniele.cucurachi@scientificavp.it) to discuss interesting projects or ideas.
+- I collaborate as an AdVenture Partner with [**Scientifica VC**](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep tech startups. I am responsible for identifying innovative technological projects within universities and research departments, fostering potential investments by Scientifica. Feel free to reach out at [daniele.cucurachi@scientificavp.it](mailto:daniele.cucurachi@scientificavp.it) to discuss interesting projects or ideas.
 {style="text-align: justify;"}
 
 - I am working on a commentary‑type article for **UIS (United Italian Societies) Research Centre**, under the supervision of Dr. Enrico Fontana, about the recent downturn in venture capital investments in deep-tech and quantum startups.
