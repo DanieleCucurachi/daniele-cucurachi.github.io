@@ -26,12 +26,12 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computational physicist interested in a wide range of exciting problems ranging from machine learning to quantum computing. On the side, I collaborate with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep-tech start-ups.
+bio: I am a computational physicist interested in a wide range of exciting problems ranging from machine learning to quantum computing. On the side, I collaborate with [Scientifica VC](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep tech startups.
 
 # Interests to show in About widget
 interests:
   - Algorithms & Complexity
-  - Deep Learning
+  - Machine Learning
   - Quantum Computing
 
 # Education to show in About widget
