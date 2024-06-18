@@ -125,7 +125,7 @@ highlight_name: true
 # My current project, in collaboration with with the [Quantum Information Group](https://www.qi.phy.cam.ac.uk/) at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo.
 ---
 
-I am a computational physicist with experience in scientific software development and research. My background and research interests span a wide range of exciting problems ranging from machine learning to quantum computing (you can find more on my [website](https://danielecucurachi.github.io/personal-website/)). Currently, I am investigating Quantum Neural Networks (QNNs) trainability at [**Pasqal**](https://www.pasqal.com/).
+I am a computational physicist with experience in scientific software development and research. My background and research interests span a wide range of exciting problems ranging from machine learning to quantum computing. Currently, I am investigating Quantum Neural Networks (QNNs) trainability at [**Pasqal**](https://www.pasqal.com/).
 {style="text-align: justify;"}
 
 On the side:
