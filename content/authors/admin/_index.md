@@ -125,14 +125,14 @@ highlight_name: true
 # My current project, in collaboration with with the [Quantum Information Group](https://www.qi.phy.cam.ac.uk/) at the University of Cambridge, focuses on the development of a quantum algorithm for optimizing quantum proposal distributions in quantum Markov chain Monte Carlo.
 ---
 
-I am a computational physicist with experience in scientific software development and research. My background and research interests span a wide range of exciting problems ranging from machine learning to quantum computing. Currently, I am investigating Quantum Neural Networks (QNNs) trainability at [**Pasqal**](https://www.pasqal.com/).
+I am a computational physicist combining expertise in scientific software development and research with a passion for startups and entrepreneurship. My background and interests span a wide range of exciting problems ranging from machine learning to quantum computing. Currently, I am investigating quantum Physics-Informed Neural Networks (PINNs) trainability at [**Pasqal**](https://www.pasqal.com/).
 {style="text-align: justify;"}
 
 On the side:
 
 - I collaborate as an AdVenture Partner with [**Scientifica VC**](https://scientifica.vc/#/en/home), a venture capital firm specializing in deep tech startups. I am responsible for identifying innovative technological projects within universities and research departments, fostering potential investments by Scientifica. Feel free to reach out at [daniele.cucurachi@scientificavp.it](mailto:daniele.cucurachi@scientificavp.it) to discuss interesting projects or ideas.
 {style="text-align: justify;"}
-- I am working on a commentary‑type article for [**UIS (United Italian Societies) Research Centre**](https://uniteditaliansocieties.com/uis-research-centre/), under the supervision of Dr. Enrico Fontana, about the recent downturn in venture capital investments in deep-tech and quantum startups.
+- I am working on a [commentary‑type article](https://iiclondra.esteri.it/it/gli_eventi/calendario/osservatorio-sulle-metamorfosi-socio-tecnologiche/) for [**UIS (United Italian Societies) Research Centre**](https://uniteditaliansocieties.com/uis-research-centre/), under the supervision of Dr. Enrico Fontana, about key investment trends and recent socio-economic shifts in the evolving quantum industry, as well as the role of quantum technology in global geopolitics.
 {style="text-align: justify;"}
 - I am finalizing a [research project](https://danielecucurachi.github.io/personal-website/project/qmcmc/) in collaboration with the [**Quantum Information Group**](https://www.qi.phy.cam.ac.uk/) (University of Cambridge).
 {style="text-align: justify;"}
